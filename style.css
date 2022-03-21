@@ -1,0 +1,377 @@
+body{
+    background-color: #1f2937;
+}
+
+nav{
+    display: inline-block;
+    padding-bottom: 20px;    
+    display: flex;
+    /*margin: 0px 100px 0px 100px;*/
+    
+    
+}
+.pebris{
+    flex: 3;
+    color: #f9faf8;
+    font-size: 24px;
+}
+.link{
+    flex: 0.5;
+    color: #e5e7eb;
+    font-size: 18px;
+}
+.awesome{
+    font-size: 40px;
+    color: #f9faf8;
+    font-weight: bold;
+}
+
+.part2{
+    /*margin: 0px 100px 0px 100px;*/
+    display: flex;
+    
+    
+}
+.text2{
+    /*display: flex;*/ 
+    margin-right: 300px;
+    padding-right: 100px;
+    color: #e5e7eb;
+}
+img{height: 200px;
+    width: 200px;
+    border: 1px solid blue;
+    border-radius: 5px;
+}
+button{
+    background-color: #3882f6;
+}
+.one{
+    height: 400px;
+    margin: 0px 100px 0px 100px;
+}
+.two{
+    padding-top: 10px;
+    margin: 0px -20px 0px -20px; 
+    background-color: white;
+    height: 500px;
+}
+.case{
+    display: flex;
+    flex: 1;
+    padding-left: 150px;
+
+    
+}
+.information{
+    text-align: center;
+    color: #1f2937;
+    font-size: 30px;
+    font-weight: bolder;
+}
+.subtext{
+    padding-right: 80px;
+}
+.three{
+    background-color: #e5e7eb;
+    margin-top: -20px;
+    margin-right: -20px;
+    margin-left: -20px;
+    text-align: center;
+    height: 250px;
+}
+.quote{
+    font-size: 18px;
+    color: #1f2937;
+    padding-top: 30px;
+    font-style: italic;
+}
+.action{
+    background-color: #3882f6;
+    margin: -50px 150px -50px 150px;
+    text-align: center;
+}
+.foot{
+    margin-top: ;
+     
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*.cups, footer{
+    background-color: #1f2937;
+    color: white;
+    width: auto;
+    
+    
+}
+.cups{
+  height: 500px;
+  padding: 10px 150px;
+}
+.cups .cup1{
+    display: flex;
+    
+}
+.cups .cup1 .item{
+    flex: 1;
+    font-size: 18px;
+    color: #e5e7eb;
+    
+    
+}
+.cups .cup2{
+    color: #f9faf8;
+    margin-bottom: 5px;
+    font-weight: bolder;
+    font-size: 48px;
+    
+}
+.cups .cup2c{
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    
+    
+}
+
+button{
+    background-color: #3882f6;
+}
+
+.cup3 .cup3a{
+    text-align: center;
+    font-weight: bold;
+    font-size: 36px;
+    color: 1f2937;
+    flex: 1;
+}
+.cup3 .cup3b{
+    display: flex;
+    margin-left: 50px;
+    margin-right: 50px;
+
+    
+}
+.cup3 .cup3b .item{
+    flex: 1;
+    text-align: center;
+    margin-right: 20px;
+    margin-left: 20px;    
+}
+.cup4{
+    background-color: #e5e7eb;
+    height: 200px;
+    
+    
+}
+.cup4 .cup4a{
+   padding: 50px;
+   text-align: center;
+   font-size: 36px;
+   font-family: "light italic";
+   color: #1f2937;
+}
+.cup5{
+    background-color: #3882f6;
+    color: white;
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+img{
+    height: 200px;
+    width: 200px;
+    border: 1px solid blue;
+    border-radius: 5px;
+}
+footer{
+    text-align: center;
+    font-size: 20px;
+    height: auto;
+    width: auto;
+   
+    
+}
+ .puc{
+     padding: 50px 0 50px 0;
+ }
+ .container{
+     display: flex;
+     height: 200px;
+     background-color: brown;
+     padding: 20px;
+     margin: 20px;
+ }
+  .big,.small,.medium{
+   display: flex;
+ }
+
+ .big{
+    flex: 2;
+     background-color: red;
+     margin: 20px;
+ }
+
+ .small{
+   flex: 1;
+    background-color: blue;
+}
+ .medium{
+   flex: 1;
+    background-color: yellow;
+ }
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*body{background-color: #1f2937;}
+.cups{
+     background-color: #1F2937;
+     color: white;
+    
+}
+.cups cup1{
+     display: flex;
+    flex: 1;
+    color: white;
+}
+.cup2{
+
+}
+cup3{
+    background-color: white;
+
+}
+.cup4{
+    background-color: #e5e7eb;
+}
+.cup5{
+    background-color: #3882f6;
+}
+button{
+    background-color: blue;
+}
+footer{
+    text-align: center;
+    font-size: 10px;
+}*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*.first{
+    background-color: #1F2937;
+    
+}
+.container2 {
+          color: #F9FAF8;
+          font-size: 48px;
+          font-weight: bolder;
+}
+
+
+         font-size: 18px;
+         color: #e5e7eb;
+
+button{
+    font-size: 18px;
+    background-color: #3882f6;
+    color: #e5e7eb
+}
+.heady{
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: bolder;
+}
+.first,.container1{
+    display: flex;
+    height: 120px;
+    padding: 10px;
+    border: 5px solid indigo;
+}
+
+.first,.container1,.item{
+    
+    display: flex;
+    width: 30px;
+    height: 30px;
+    justify-content: flex-start;
+    justify-content: space-between; 
+}*/
